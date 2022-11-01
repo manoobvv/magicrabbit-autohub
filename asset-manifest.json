@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/magicrabbit-autohub/static/css/main.073c9b0a.css",
+    "main.js": "/magicrabbit-autohub/static/js/main.885f44b6.js",
+    "static/js/787.bc7d429a.chunk.js": "/magicrabbit-autohub/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/magicrabbit-autohub/index.html",
+    "main.073c9b0a.css.map": "/magicrabbit-autohub/static/css/main.073c9b0a.css.map",
+    "main.885f44b6.js.map": "/magicrabbit-autohub/static/js/main.885f44b6.js.map",
+    "787.bc7d429a.chunk.js.map": "/magicrabbit-autohub/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.885f44b6.js"
+  ]
+}
